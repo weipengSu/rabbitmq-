@@ -1,2 +1,1 @@
-# rabbitmq-
-rabbitmq的搭建和实战
+# rabbitmq的搭建和实战
